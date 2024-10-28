@@ -1,0 +1,13 @@
+//program for key point of data type//
+#include<stdio.h>
+int main () 
+{
+int a, b;
+a=10;
+b=a+1;
+printf("your answer is :%d", b) ;
+return 0;}
+     
+    
+output:
+your answer is :11
