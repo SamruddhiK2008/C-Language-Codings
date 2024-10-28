@@ -18,5 +18,8 @@ int main() {
      return 0;
      }
      
-     
-    
+    output:-
+a+b=30
+a-b=-4
+a*b=221
+a/b=0    
