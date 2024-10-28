@@ -1,0 +1,15 @@
+//square of a number//
+#include<stdio.h>
+int main () 
+{
+ int sq;
+ 
+ sq= 10*10;
+ printf("\n square of 10= %d",  sq) ;
+ return 0;
+ }
+ 
+    
+ output:
+
+square of 10= 100
