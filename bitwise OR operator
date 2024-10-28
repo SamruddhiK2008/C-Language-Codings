@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+   int p=60;
+int q=13;
+int r=0;
+r= p|q;
+printf("the value of r is %d",r );
+}
+
+
+output-
+the value of r is 61
