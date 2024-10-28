@@ -1,0 +1,15 @@
+//program for primary data type chat//
+#include<stdio.h>
+
+int main()
+ {
+ //enter your name//
+ char ch;
+ 
+     printf("Enter a character:") ;
+     return 0;
+     }
+     
+
+output:
+Enter a character:
