@@ -1,0 +1,13 @@
+//program for primary data type int//
+#include<stdio.h>
+
+int main()
+ {
+ int g=17;
+     printf("%d", g) ;
+     return 0;
+     }
+
+     
+output:
+17
