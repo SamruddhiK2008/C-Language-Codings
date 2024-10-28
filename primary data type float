@@ -1,0 +1,16 @@
+//program for primary data type float//
+#include<stdio.h>
+
+int main()
+ {
+ 
+ float i;
+ i=10.5;
+ 
+     printf("%f",i) ;
+     return 0;
+     }
+     
+    
+output:
+10.500000
