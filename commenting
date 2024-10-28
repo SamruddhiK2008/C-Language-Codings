@@ -1,0 +1,12 @@
+
+#include<stdio.h>
+
+int main()
+ {
+     printf("Hey, I am Samruddhi. "); //comment your name//
+     return 0;
+     }
+     
+    
+output:
+Hey, I am Samruddhi.
