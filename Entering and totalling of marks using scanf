@@ -1,0 +1,19 @@
+//  Entering and totalling marks//
+#include<stdio.h>
+int main() 
+{
+int maths,english, total;
+printf("Enter your eng and maths marks:") ;
+scanf("%d ,%d", & maths, &english);
+total=maths+english;
+printf ("total=%d", total) ;
+return 0;
+}
+
+ 
+output:
+
+     Enter your eng and maths marks:75 85
+total=160
+[Process completed - press Enter]
+    
