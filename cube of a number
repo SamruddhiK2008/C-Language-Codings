@@ -1,0 +1,15 @@
+//cube of a number//
+#include<stdio.h>
+int main () 
+{
+ int cube;
+ 
+ cube= 10*10*10;
+ printf("\n cube of 10= %d",  cube) ;
+ return 0;
+ }
+ 
+     
+    
+output:
+cube of 10= 1000
