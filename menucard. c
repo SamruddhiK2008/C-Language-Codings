@@ -1,0 +1,45 @@
+//menu card//
+#include<stdio.h>
+int main()
+{
+     int menu;
+     printf("Press 1.Dosa\nPress 2.uttatpa\nPress 3.Idli\nPress 4.Poha\nPress 5.Upama\nYour choice:");
+     scanf("%d",&menu);
+     switch(menu)
+     {
+         case 1:
+         printf("\nDosa");
+         break;
+        
+        case 2:
+        printf("\nuttapa");
+         break;
+         
+         case 3:
+         printf("\nIdli");
+         break;
+         
+         case 4:
+         printf("\npoha");
+         break;
+         
+         case 5:
+         printf("\nUpama");
+         break;
+         
+         default:
+         printf("\nplease enter a valid choice..");
+     }
+     
+}
+
+
+output:
+Press 1.Dosa
+Press 2.uttatpa
+Press 3.Idli
+Press 4.Poha
+Press 5.Upama
+Your choice:5
+
+Upama
