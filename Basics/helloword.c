@@ -5,6 +5,3 @@ int main()
   printf("hello word");
   return 0;
 }
-   
-output:
-hello word
