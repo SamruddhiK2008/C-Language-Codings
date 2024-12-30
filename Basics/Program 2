@@ -1,0 +1,21 @@
+//Program//
+#include<stdio.h>
+
+int main() 
+{
+int i, n, o=0;
+n=153;
+while(n>0) 
+{
+i=n%10;// i is the last digit//
+o=o+i*i*i;
+n=n/10;
+}
+printf("%d",o);
+}
+
+
+
+
+    output:-
+153
